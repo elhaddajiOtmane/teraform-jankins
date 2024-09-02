@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 41f6f9bb9aa1d3eb9f9d46ca5b47fffb5e66d7d8
 
 ## Step 1:
 ### Build AWS EC2 Instance
